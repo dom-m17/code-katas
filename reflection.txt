@@ -1,0 +1,38 @@
+URL
+
+1. Understanding the Problem
+
+- Did you fully understand the problem statement before coding?
+- Did you identify edge cases before starting?
+
+2. Approach & Thought Process
+
+- What was your initial approach?
+- Did you consider multiple ways to solve the problem?
+- Why did you choose this approach?
+
+3. Implementation
+
+- How clean and readable is your code?
+- Were there any parts where you got stuck?
+- Did you make good use of functions, modularity, and naming conventions?
+
+4. Efficiency & Complexity
+
+- What is the time and space complexity of your solution?
+- Could it be optimized further?
+
+5. Testing & Edge Cases
+
+- Did you test thoroughly, including edge cases?
+- Did any test cases fail? Why?
+
+6. Alternative Solutions & Learnings
+
+- Could you solve it differently (e.g., iterative vs. recursive)?
+- Did you learn a new algorithm, technique, or optimization?
+
+7. Reflection & Next Steps
+
+- What could you improve for next time?
+- Should you revisit this problem later to try a different approach?
